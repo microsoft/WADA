@@ -1,33 +1,28 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Welcome to the project repository! This repository serves as a starting point for your project and provides guidelines for community participation and support. Please read this README.md file to get started and find relevant information about this project.
 
-As the maintainer of this project, please make a few updates:
+## Support
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+If you need support or have any questions related to this project, please refer to the [SUPPORT.md](SUPPORT.md) file. It contains detailed information on how to seek assistance, report issues, and engage with the community.
+
+## Security
+
+To ensure the security of this project, we have a dedicated process for reporting and handling security vulnerabilities. If you discover any security-related issues or vulnerabilities, please follow the guidelines outlined in the [SECURITY.md](SECURITY.md) file.
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+We welcome and appreciate contributions and suggestions from the community. If you would like to contribute to this project, please follow the guidelines below.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+1. Read and understand our [Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+2. Review the [Contributor License Agreement (CLA)](https://cla.opensource.microsoft.com). By contributing to this project, you agree to grant us the rights to use your contribution.
+3. Fork this repository and make your desired changes.
+4. Submit a pull request with a clear description of your changes and their purpose.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Once you submit a pull request, our CLA bot will guide you through the process if necessary.
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+This project may include trademarks or logos for various projects, products, or services. The authorized use of such trademarks or logos must comply with [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general). Modified versions of this project should not cause confusion or imply Microsoft sponsorship. Please refer to the third-party policies for the use of their trademarks or logos.
+
+Feel free to customize this README.md file and other project-specific files according to your project's needs. Good luck with your project!
