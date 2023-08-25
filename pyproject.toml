@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name="wada"
+version="0.1.0"
+authors=[
+    {name="", email="v-yaokangwu@microsoft.com"},
+]
+description="Wise AI Debate Assistant"
+readme="README.md"
+requires-python=">=3.7"
+keywords=[
+    "communicative-ai",
+    "artificial-intelligence",
+    "multi-agent-systems",
+    "cooperative-ai",
+    "natural-language-processing",
+    "large-language-models",
+]
+classifiers=[
+    "Development Status :: 2 - Pre-Alpha",
+    "License :: OSI Approved :: Apache License 2.0",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3 :: Only",
+]
+
+dynamic=["dependencies", "optional-dependencies"]
+
+[project.urls]
+homepage="https://dev.azure.com/hangdong0292/LLM_RolePlay/_git/LLM_RolePlay"
+repository="https://dev.azure.com/hangdong0292/LLM_RolePlay/_git/LLM_RolePlay"
+
+[tool.yapf]
+based_on_style = "pep8"
+split_before_named_assigns = false
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+skip = [".gitingore", "__init__.py"]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    ".",
+]

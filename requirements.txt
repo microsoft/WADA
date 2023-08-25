@@ -1,0 +1,23 @@
+# Packages for core
+numpy
+openai
+tenacity
+tiktoken
+colorama
+gradio
+langchain @ git+https://github.com/Hallimede/langchain.git#subdirectory=libs/langchain
+duckduckgo-search
+wikipedia
+arxiv
+
+# Packages for development
+setuptools
+build
+yapf
+isort
+flake8
+pre-commit
+
+# Packages for testing
+pytest
+pytest-cov
