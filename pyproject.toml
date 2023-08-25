@@ -6,7 +6,8 @@ build-backend = "setuptools.build_meta"
 name="wada"
 version="0.1.0"
 authors=[
-    {name="", email="v-yaokangwu@microsoft.com"},
+    {name="Yaokang Wu", email="yaokangw@andrew.cmu.edu"},
+    {name="Hang Dong", email="hangdong@microsoft.com"}
 ]
 description="Wise AI Debate Assistant"
 readme="README.md"
